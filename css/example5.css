@@ -1,0 +1,51 @@
+/* This is comment */
+/*li{
+	color: blue;
+}
+h1, h2{
+	color: red;
+}*/
+
+.bodybackground{
+  background-color: #8bb0e5
+}
+#welcome{
+	color: green;
+	font-size: 50px;
+}
+#tagline{
+	color: orange;
+	font-weight: bold;
+}
+.bluecolor{
+	color: blue;
+}
+.redcolor{
+	color: red;
+}
+
+.main{
+	width: 60%;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+.titlecard{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	box-shadow: 4px 4px 2px grey;	
+}
+.cardalign{
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	box-shadow: 4px 4px 2px grey;	
+}
+.detailviews{
+	opacity: 0.3;
+	width: 90%	
+}
+img:hover{
+	opacity: 1.0;
+}
